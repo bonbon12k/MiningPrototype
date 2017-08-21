@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MiningPrototype</string>
+    <string name="threshold">Threshold</string>
+    <string name="exponent">exp.</string>
+    <string name="octaves">oct.</string>
+    <string name="persistence">per.</string>
+    <string name="game_mode">GameMode</string>
+    <string name="resource_generation_prototype">Resource Generation Prototype</string>
+    <string name="start_cell_auto_text">Cellular Automata Prototype</string>
+    <string name="start_cell_text">Please select collection start location:</string>
+    <string name="dig_button_text">GO!</string>
+</resources>
